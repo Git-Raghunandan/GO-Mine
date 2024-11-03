@@ -1,0 +1,12 @@
+Create a file main.go
+
+package main
+import "fmt"                   //imported new function fmt
+//this is a comment
+func main() {                              
+   fmt.println("Hello World")                 //
+}                                           //end of program
+
+// comment
+/*multiline*/
+
